@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the most Christian King Lewis the XIV of France and Navarre to all his loving subjects concerning the cessation of the late troubles and restoring them to their former peace and tranquility ; faithfully translated out of the French copie.</title>
+            <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26231</idno><idno type="EEBO-CITATION">16146720</idno>
+  <idno type="VID">206226</idno>
+  <idno type="EEBO-PROQUEST">2248507981</idno>
+  
+            <idno type="STC">Wing L3109</idno>
+            <idno type="OCLC">16146720</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26231)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206226)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1596:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the most Christian King Lewis the XIV of France and Navarre to all his loving subjects concerning the cessation of the late troubles and restoring them to their former peace and tranquility ; faithfully translated out of the French copie.</title>
+                  <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+                  <author>Louis XIV, King of France, 1638-1715.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Royston ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>April 9., 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">France --  History --  Louis XIV, 1643-1715.</term>
+               <term type="geographic_name">France --  Politics and government --  1643-1715.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:206226:1"/>
+            <pb n="1" facs="tcp:206226:1"/>
+            <head>THE DECLARATION <hi>OF</hi> The most Christian KING, LEVVIS the XIV. Of <hi>France</hi> &amp; <hi>Navarre.</hi>
+            </head>
+            <head type="sub">To all His loving Subjects, concerning the Cessation of the late Troubles, and restoring them to their former peace and tranquility.</head>
+            <head type="sub">Faithfully Translated out of the French Copie.</head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">L</seg>EWIS,</hi> By the grace of God, KING of <hi>France</hi> and <hi>Navarre;</hi>
+               </signed>
+               <salute>To all present, and to come, greeting:</salute>
+            </opener>
+            <p>Experience doth clearly manifest, that the Kingdome of <hi>France</hi> is both invincible and dreadfull to its Enemies, so long as it doth re<g ref="char:EOLhyphen"/>maine united within it self: And we may truly say, that this compleat harmonie hath been the maine cause whereby it is come to that height, as We doe see it at present, by many Conquests made upon <hi>Germany</hi> and <hi>Spaine;</hi> which doth cause us to look narrowly for the prevention of any thing which may alter the same, seeing it is so necessary to maintaine Our owne against Our Enemies, which are so strong and numerous, that the yeares of Our Reigne may be well reckoned by the ma<g ref="char:EOLhyphen"/>ny Victories that We have obtained upon them: Therefore fearing lest the Division which hath lately sprung up should come to some head, and so to cause a Civil Warre; whereby We might be hindered from opposing Our Enemies, and so disable Us from
+<pb n="2" facs="tcp:206226:2"/>obtaining the Peace so long wished for, which is the greatest re<g ref="char:EOLhyphen"/>ward, and as a Crowne by Us aimed at in all our labours; and doe wish it so passionately, that for the obtaining thereof, no meanes have been left unattempted, so farre as it was consistent with Our Royall Dignity, being urgent even with the Spanish Partie to name a place upon Our Frontier where Commissioners of both Kingdomes might be sent with a full power to Treat: And being now resolved to name one of Our Officers of the Parliament of <hi>Paris</hi> to be a Commissioner for that Treaty.</p>
+            <p>We have therefore thought fit to use all meanes that can be expected from the goodnesse and wisdome of a PRINCE for stopping the current of so great an evil, even in its very birth, that so Our Subjects may in peace and quietnesse enjoy those many favours and benefits they have received from Our grace and goodnesse, as it is at large expressed in the Declarations by Us made in <hi>October</hi> last; as also those before made in <hi>May</hi> &amp; <hi>July,</hi> before which, We will have to be executed in every point and clause thereof according to the true meaning, save onely for the Loanes which we shall be forced to make for the present neces<g ref="char:EOLhyphen"/>sities of the State, as it will be specified hereafter.</p>
+            <p>For these Causes (after that Our Court of Parliament, with the Inhabitants of Our good City of <hi>Paris,</hi> have done those sub<g ref="char:EOLhyphen"/>missions and tokens of obedience as We could desire from them, with their protestations of fidelity to Our service:) Know you that by the advice of the <hi>Queen Regent</hi> Our (most honoured Lady) Mother; of Our most deare and welbeloved Uncle the Duke <hi>d'Orleans;</hi> of Our most deare and welbeloved Cosen the Prince of <hi>Condé;</hi> and of Our certaine knoweldge, full power, and Royall authority:</p>
+            <div n="1" type="article">
+               <head>Article I.</head>
+               <p>We have said and declared, doe say and declare, by these pre<g ref="char:EOLhyphen"/>sents signed by Us: We will, and Our pleasure is, That all De<g ref="char:EOLhyphen"/>crees, Orders, Ordinances, Commissions granted, or any thing else Acted by Our said Court of Parliament, the Court of Alder<g ref="char:EOLhyphen"/>men, or any other whatsoever done since the 6<seg rend="sup">t</seg>. of <hi>January</hi> last past, are declared void and null; as also the Acts, Treaties, Letters, Deeds, or any thing else whatsoever done concerning
+<pb n="3" facs="tcp:206226:2"/>these present Troubles, untill the date of this present Declara<g ref="char:EOLhyphen"/>tion; so that for any thing so acted, or done, none shall be troubled or molested, neither to make any use thereof against any Person whatsoever thereby to doe Us any prejudice, or to the disturbance of the State: Neverthelesse, it is agreed, that all such Judgments made, or given betwixt Partie and Partie, they being present, whether it be Civill or Criminall, or else, with Our At<g ref="char:EOLhyphen"/>tourney Generall touching particular Causes: Likewise all the adjudicatories and admission of Officers, as also that concerning Officers created in the yeare, 1635. shall remaine in force.</p>
+            </div>
+            <div n="2" type="article">
+               <head>Article II.</head>
+               <p>Likewise, shall remaine null and of none effect, all Decrees made in Our Counsell Table, as also any Declarations published by authority of the same, also Letters of the Signet granted a<g ref="char:EOLhyphen"/>bout these present Troubles since the 6. of <hi>Jan:</hi> last unto the date of this present: And consequently We Ordain, that all Uniting, entring into League and Association, or whatsoever else may be done or negotiated touching the premises as well within as with<g ref="char:EOLhyphen"/>out Our Kingdome, whether those that are entred in such Confe<g ref="char:EOLhyphen"/>deracy have had any correspondency with Strangers, have given them any help or assistance, whether they have taken up Armes with them, or sided in any wise; also have made Our Townes and Burroughs to take up Armes, and to receive them, and counte<g ref="char:EOLhyphen"/>nance them; yea, those that have furnished them with provisi<g ref="char:EOLhyphen"/>ons: and generally any manner of Person or Persons whatso<g ref="char:EOLhyphen"/>ever that have had any hand, or participated to this businesse, whether they have Acted by the speciall Orders of Our most deare and welbeloved, Cosen the Prince of <hi>Conty,</hi> or any other Princes, Dukes, Peeres, Officers of the Crowne, Prelats, Lords, Gentlemen, Cities, Townes, and Country; that neither Our a<g ref="char:EOLhyphen"/>foresaid Cosen the Prince of <hi>Conty,</hi> or any other Prince, Duke, &amp;c. or those by them employed in the said negotiations of what qua<g ref="char:EOLhyphen"/>lity and condition whatsoever, shall not, and may not for time to come be molested or troubled in any wise; but all things so acted and done to remaine void and of none effect, even as if it had never been done: also for any thing acted concerning Ar<g ref="char:EOLhyphen"/>mies, raising of Men, taking up of Money, either of private Per<g ref="char:EOLhyphen"/>sons, or publique Treasury, the carrying away of moveable goods
+<pb n="4" facs="tcp:206226:3"/>&amp; selling them afterwards; the like for Plate, Ordnance, Arms, Ammunition and Provision, no restitution to be made or sought for, but onely of such things as will be found in being and not yet sold: Assemblies and Private meetings as well within the Townes as in the Country, taking up Armes. Arresting and Im<g ref="char:EOLhyphen"/>prisoning severall Persons, taking of Townes, Castles, Strong<g ref="char:EOLhyphen"/>holds, whether it was by a speciall Order or otherwise; and this to be till the day that Our Declaration be published in <hi>Paris,</hi> and for those that are more remote three daies after it is published in their respective places of abode. Furthermore, Our will and pleasure is, That Our aforesaid Cosen the Prince of <hi>Conty,</hi> and all other Princes, Dukes, Peeres, &amp;c. without any exception what<g ref="char:EOLhyphen"/>soever, who have in any waies Acted or Agitated in the businesse aforesaid, shall be restored into all their goods, honours, digni<g ref="char:EOLhyphen"/>ties, preheminencies, prerogatives, Places of trust, Governours of Townes, Offices, and Benefices, even in the same manner as they were the 6. of <hi>January</hi> last past: Likewise, that the Marquesse of <hi>Noirmonstier,</hi> Earle of <hi>Fiesque, de Laigne, Saint Ibar, la Sauvetat,</hi> and <hi>la Boulaye;</hi> also that any one that hath taken up Arms by rea<g ref="char:EOLhyphen"/>son of these present Troubles shall be paid by us of any debts justly due to them, provided that the Prince of <hi>Conty,</hi> or any other whatsoever shall upon the publication thereof lay downe their Armes, as likewise renounce unto all Treaties, Associations, Confederacies made in or about these present Troubles, as well within as without our Kingdome.</p>
+            </div>
+            <div n="3" type="article">
+               <head>Article III.</head>
+               <p>All Soldiers raised by Order of Our said Cosen the Prince of <hi>Conty,</hi> shall forthwith be Disbanded immediately after the pub<g ref="char:EOLhyphen"/>lication hereof, onely those excepted that shall be kept for Our service, who shall receive our Commissions to that purpose.</p>
+            </div>
+            <div n="4" type="article">
+               <head>Article IV.</head>
+               <p>All Prisoners (whether they be of Warre, or otherwise) shall be set at Liberty, and in particular Monsi ur <hi>Mangot</hi> Counsellour of State and Master of Requests in Ordinary of Our Houshold, as also Monsieur <hi>Tracy,</hi> and <hi>Brequigni,</hi> and generally all others that have been Arrested and Imprisoned since the 6. of <hi>Jan:</hi> last, by reason of this present Rising, in whatsoever Prison they are detained, shall without delay be set at liberty upon the publica<g ref="char:EOLhyphen"/>tion hereof.</p>
+            </div>
+            <div n="5" type="article">
+               <pb n="5" facs="tcp:206226:3"/>
+               <head>Article V.</head>
+               <p>And by reason that the first payments made of the Taxes and Farmes is not made unto Us, or paid into Our Exchequer; but after four or five Months are expired of each yeare that is begun, and that Our present necessity forceth Us to seek some course for having present Monies, Therefore We Ordaine, that during the yeares 1649. &amp; 1650. onely, there may be taken by way of Loane the summe of twelve Millions of Livers <hi>per annum,</hi> in case the present occasion and exigencie of our affaires doth so require it; yet that none of Our Subjects shall be compelled thereunto, neither shall those Monies so taken up be turned to any other use then for the present occasion, none being put for the pay<g ref="char:EOLhyphen"/>ment of those debts by Us formerly contracted: And for the raising of the Monies, that it shall be first upon the Cities and great Townes with the Country adjacent, there being good and sufficient security given by the Parties that pay the said Monies, to pay it into Our Exchequer, and a consideration of 8 <hi>percent.</hi> for the Use of their Monies, and to be punctually paid at the time agreed upon, they being appointed upon the generall re<g ref="char:EOLhyphen"/>ceipt of the Taxes, which from henceforth shall not be put in the way of a Monopolie, neither shall any other receive it but such as are the KING's ordinary Officers.</p>
+            </div>
+            <div n="6" type="article">
+               <head>Article VI.</head>
+               <p>We Ordaine, that the Towns &amp; Counties of <hi>S<seg rend="sup">t</seg> John d' Angely, Xaintes,</hi> and <hi>Coignac,</hi> formerly depending of our Court of Ex<g ref="char:EOLhyphen"/>chequer at <hi>Paris,</hi> but since alienated &amp; joyned to that of <hi>Guyenne,</hi> shall againe be re-united as they were formerly as before Our Proclamation to that effect.</p>
+            </div>
+            <div n="7" type="article">
+               <head>Article VII.</head>
+               <p>Having well considered the excessive cost and charge that Our Subjects have been at, in, and about the City of <hi>Paris,</hi> by Billeting and Quartering of Soldiers: We are therefore resolved to give some remedy to it with all speed, and to ease each of them in matter of payments according as it shall be seen requisite after the Forces are Disbanded, and full notice is given us of their present condition, the same also to be for the other places farther off that depend from <hi>Paris</hi> every one respectively as it shall be thought fit.</p>
+            </div>
+            <div n="8" type="article">
+               <pb n="6" facs="tcp:206226:4"/>
+               <head>Article VIII.</head>
+               <p>We will and declare,
+<note place="margin">The Samestre being a creati<g ref="char:EOLhyphen"/>on of more Officers in that Court, and so make them that were before change every six Months.</note> that Our Proclamation formerly made concerning the suppression or abolition of the Semestre in the Court of Parliament of <hi>Provence,</hi> shall be executed in every part and clause thereof, according to the conditions agreed upon betwixt us and them.</p>
+            </div>
+            <div n="9" type="article">
+               <head>Article IX.</head>
+               <p>And having duely considered the many Remonstrances which have been made unto Us from time to time by our Parliament of <hi>Roan</hi> touching the abolition of the Semestre established there<g ref="char:EOLhyphen"/>in, We have therefore by these presents, annulled, suppressed, and abolished the said Semestre by Us established according to Our Proclamation to that effect heretofore published, and con<g ref="char:EOLhyphen"/>sequently all Offices of Presidents or Counsellours so made for<g ref="char:EOLhyphen"/>merly by our said Declaration to be void, and those first made to remaine onely, so that neither now, nor in time to come the said Offices shall againe be established or setled save onely one President and thirteen Counsellours, with two for the Court of Requests, that shall be united and incorporated to the body of Our said Court; which Places shall be executed by those whom the Court shall name and make choice for that purpose, with all honours, dignities, priviledges, to them appertaining, as when they were first instituted, and the same pensions also to be paid unto them as is usuall. And Our said Court of Parliament of <hi>Roan</hi> is also hereby required to name and make choice of those Persons that are to be continued within the space of one Month after the publishing hereof; and in case of default, and the time being ex<g ref="char:EOLhyphen"/>pired, the said Officers shall and may enjoy, and execute their severall places, every one according to the course and order of their creation according to the number before specified, provi<g ref="char:EOLhyphen"/>ded that those so named and chosen by Our said Court shall pay into Our private Treasury, that is to say, the President seventy thousand pounds, the thirteene Counsellours thirty thousand pounds; each of them, and those two for the Court of Requests twenty thousand pounds, each one to be paid and distributed un<g ref="char:EOLhyphen"/>to those Officers whose Places are abolished, and for overplus, in case those Monies doe not suffice to satisfie every one that is so put out, there shall be some speedy course by Us taken for the
+<pb n="7" facs="tcp:206226:4"/>payment thereof, and Our said Court is hereby declared free and quit from any such payments; neither shall they that sold the said Offices be troubled or molested under any colour or pretext whatsoever. We will and Ordaine, that all, and every such Officer so suppressed shall enjoy all priviledges, immunities, prerogatives, or any other benefit which they may have obtained during the time they have enjoyed the said Places, and that they shall be capable of enjoying other Places and employments as they shall be able to attaine thereunto without any further exa<g ref="char:EOLhyphen"/>mination or search made at the time of their reception, and shall moreover enjoy their sallarie untill such time as they have recei<g ref="char:EOLhyphen"/>ved the full payment of such summes as was by them paid at the time of their creation, their bare Aquittance being a sufficient dis<g ref="char:EOLhyphen"/>charge for the same.</p>
+               <p>And We will and require, that Our Courts of Parliament of <hi>Paris</hi> and <hi>Roan</hi> cause this Declaration to be read, published, and Registred, and the Contents thereof to be kept and observed in every clause and branch thereof, all and every one in their Places respectively according to its true intent and meaning; for such is Our pleasure: And that this may be a firme &amp; constant thing, We have therefore sealed these presents with Our owne Seale.</p>
+               <closer>
+                  <dateline>
+                     <hi>¶ Given at S<seg rend="sup">t</seg>
+                     </hi> Germain in Laye, <date>
+                        <hi>in the yeare of Our Lord,</hi> 1649. <hi>and of Our Reigne the</hi> 6.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Signed</hi> LEWIS. <hi>And lower,</hi> By the KING, <hi>the</hi> QUEEN REGENT <hi>His Mother being present,</hi> De Guenegand, <hi>Secret:</hi>
+                  </signed>
+               </closer>
+               <closer>
+                  <dateline>
+                     <hi>REgistred, heard and read at the request of the</hi> KING's <hi>Attourny-Generall, to be executed according to its tenour, and that Copies thereof shall be sent into all the Bailywicks and other inferiour Courts depending on this Parliament, that there the same may be read, pub<g ref="char:EOLhyphen"/>lished, and registred, and the Deputies of the</hi> KING's <hi>Attourny-Generall are required not to faile therein, but to use all care and dili<g ref="char:EOLhyphen"/>gence requisite for this same; and thereof to certifie the Court within a Month accordingly.</hi>
+                  </dateline>
+                  <dateline>¶ Done at <hi>Paris</hi> in the Parliament <date> the 1. of <hi>April,</hi> 1649.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Signed</hi> DU. TILLET.</signed>
+               </closer>
+            </div>
+            <div type="abstract">
+               <pb n="8" facs="tcp:206226:5"/>
+               <head>Abstract of the Registers of Parliament.</head>
+               <p>THis day the Court, and all the Chambers being met, After they had seen His Majesties Letters Patents in forme of a DECLARATION, given at S. <hi>Germain in Laye,</hi> in <hi>March</hi> last, Signed <hi>LEWIS, &amp;c.</hi> which are granted concerning these last Raisings and Troubles, concerning the Cessation and ending of them; and are directed to this Court: And thereupon having heard the conclusions of the Attourny Generall, The Court hath Ordained, that the same shall be read, published, and registred in all places that are depending of this Court, severall Copies there<g ref="char:EOLhyphen"/>of being sent, and the KING's <hi>Attourny-Generall</hi> to Order His Substitutes to see it performed, and to certifie the Court within one Month. Done in Parliament &amp;c.</p>
+               <p>It is moreover ordered, that a Thanksgiving day shall be ap<g ref="char:EOLhyphen"/>pointed, and thanks likewise returned to their Majesties for that they were pleased to restore Their People to peace and quiet<g ref="char:EOLhyphen"/>nesse, that to this end Commissioners shall be sent from this Court to doe the same: And furthermore, that they shall most humbly beseech Their Majesties that they vouchsafe to honour this City with their Personall presence, and so to returne hither; as also they shall move concerning the severall interests of their Generalls, and others herein concerned: And furthermore it is agreed, that the Forces lately raised shall be forthwith Dis<g ref="char:EOLhyphen"/>banded.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>R. Royston,</hi> at the <hi>Angel</hi> in <hi>Ivie-lane, April</hi> 9. 1649.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206226:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
